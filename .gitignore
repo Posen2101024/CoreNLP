@@ -5,3 +5,6 @@ __pycache__/
 
 # Mac/OSX
 .DS_Store
+
+# Model
+stanford-corenlp-4.2.0/
